@@ -1,1 +1,1 @@
-# SymPy
+# SymPy 1.8
